@@ -1,4 +1,3 @@
-# Face-Recognition-Attendace-
 # Face Recognition-Based Attendance System  
 
 ## Overview  
